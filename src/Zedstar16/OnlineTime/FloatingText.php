@@ -1,6 +1,6 @@
 <?php
 
-namespace TopNolep\EdoGaming;
+namespace Zedstar16\OnlineTime;
 
 use pocketmine\level\particle\FloatingTextParticle;
 use pocketmine\math\Vector3;
