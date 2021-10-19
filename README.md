@@ -2,6 +2,8 @@
 
 TopNolep is a plugin that retrieves the game time the player was on the server during, not only that, topnolep now provides a leaderboard that shows a list of the top 10 people who are often online on the server.
 
+# Addon
+[![TopNolepAddon](https://github.com/EdoGaming28/TopNolepAddon)
 # Commands
 Command | Alias| Default
 ------- | ---------- | --------
