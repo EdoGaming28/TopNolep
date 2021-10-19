@@ -1,0 +1,21 @@
+name: TopNolep
+main: TopNolep\EdoGaming\Main
+version: 1.0
+api: 3.0.0
+load: POSTWORLD
+author: EdoGaming
+website: https://github.com/EdoGaming28/TopNolep
+
+commands:
+ onlinetime:
+  aliases: [ot, otime]
+  description: "View how much time you've spent on the server"
+  permission: onlinetime
+
+permissions:
+ reset.onlinetime:
+  default: op
+  description: "reset"
+ onlinetime:
+  default: true
+  description: "ot"
