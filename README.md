@@ -8,7 +8,6 @@ TopNolep is a plugin that retrieves the game time the player was on the server d
 Command | Alias| Default
 ------- | ---------- | --------
 onlinetime | onlinet, ot | true
-------- | ---------- | --------
 settopnolep | null | op
 
 # API
