@@ -13,27 +13,27 @@ settopnolep | null | op
 # API
 Get online player time on scorehud
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getNolepTime($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getNolepTime($player);
 ```
 Get the whole seconds number
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getTime($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getTime($player);
 ```
 Get the real hours number
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getRealTimeHours($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getRealTimeHours($player);
 ```
 Get the real minutes number
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getRealTimeMinutes($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getRealTimeMinutes($player);
 ```
 Get the real seconds number
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getRealTimeSeconds($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getRealTimeSeconds($player);
 ```
 Get a whole time format as described in the config
 ```php
-$this->getServer()->getPluginManager()->getPlugin("TopNolep")->getRealTime($player);
+$this->getServer()->getPluginManager()->getPlugin("OnlineTime")->getRealTime($player);
 ```
 
 ----------------
